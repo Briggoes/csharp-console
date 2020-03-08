@@ -1,0 +1,26 @@
+{
+  "name": "csharp-console",
+  "version": "1.0.0",
+  "description": "\u0016Ever wanted to use the console just like with C#? Well me neither but I was bored and...",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briggoes/csharp-console.git"
+  },
+  "keywords": [
+    "C#",
+    "Console"
+  ],
+  "author": "Briggoes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Briggoes/csharp-console/issues"
+  },
+  "homepage": "https://github.com/Briggoes/csharp-console#readme"
+}

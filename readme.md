@@ -1,5 +1,5 @@
 # csharp-console
-> Ever wanted to use the console just like with C#? Well me neither but I was bored and...
+> Kind of useless console wrapper.
 
 ## Usage
 ```js
